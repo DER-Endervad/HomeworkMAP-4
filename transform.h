@@ -9,9 +9,9 @@ public:
 	Shape scaleY(int d);
 	Shape scaleZ(int e);
 	Shape scale(int s);
-	Shape scaleXYZ(int i, int xyz);
 
 private:
 	Shape shape;
+	Shape scaleXYZ(int i, int xyz);
 };
 
