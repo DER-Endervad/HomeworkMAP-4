@@ -128,10 +128,22 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="HomeworkMAP 4.cpp" />
+    <ClCompile Include="myshape.cpp" />
+    <ClCompile Include="my_circle.cpp" />
+    <ClCompile Include="my_cube.cpp" />
+    <ClCompile Include="my_cylinder.cpp" />
+    <ClCompile Include="my_line.cpp" />
+    <ClCompile Include="my_sqr.cpp" />
     <ClCompile Include="shape.cpp" />
     <ClCompile Include="transform.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="myshape.h" />
+    <ClInclude Include="my_circle.h" />
+    <ClInclude Include="my_cube.h" />
+    <ClInclude Include="my_cylinder.h" />
+    <ClInclude Include="my_line.h" />
+    <ClInclude Include="my_sqr.h" />
     <ClInclude Include="shape.h" />
     <ClInclude Include="transform.h" />
   </ItemGroup>
